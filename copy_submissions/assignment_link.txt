@@ -1,0 +1,7 @@
+1.  Navigate to the course you would like to take the assignment from. Then, click on the ‘Assignments’ tab on the left side of the page. 
+
+2.  Click into the assignment you would like to copy submissions on. 
+
+3.  Then, copy the URL. The format should include: https://canvas.ubc.ca/courses/11111/assignments/1111111, with the 1’s being replaced by your course and assignment’s unique codes. 
+
+4.  Paste this link into the tool. 

@@ -1,0 +1,9 @@
+1.  Navigate to the course you would like to get the link from 
+
+2.  Then, copy the URL. The format should include: https://canvas.ubc.ca/courses/11111 
+       
+        a.  with the 1's being replaced by your course and assignment's unique codes. 
+ 
+        b.  The URL can be longer, but it must contain the 5 unique numbers of your course. 
+
+3.  Paste this link into the tool. 
